@@ -1,6 +1,6 @@
 <?php
 
-namespace Database\Factories;
+namespace Database\hosting
 
 use App\Driver\Models\EventModel;
 use App\Enumerators\EventStatusEnum;
